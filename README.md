@@ -10,8 +10,6 @@
 
 - 👯 I’m working on some projects [Fansite](https://github.com/jeffry-khalife/Fansite),[Tiktaktoe](https://github.com/hylan-hallaci/TikTakTo)
 
-- 👨‍💻 All of my projects are available at **"Portfolio in progress"**
-
 - ⚡ In my free time **I try to improve my coding techniques and my creativity.**
 
 - 🤝 I’m looking for a work-study contract in Marseille
