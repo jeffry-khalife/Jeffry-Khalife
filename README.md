@@ -1,6 +1,5 @@
-<div align="center">
-    ![Capture d’écran 2024-12-02 120109](https://github.com/user-attachments/assets/44dbf103-136c-4ad1-88e2-801ec09ec033)
-  </div>
+
+![Capture d’écran 2024-12-02 120109](https://github.com/user-attachments/assets/44dbf103-136c-4ad1-88e2-801ec09ec033)
   
 <h1 align="center">Hi 👋, I'm Jeffry Khalife</h1>
 <h3 align="center">I'm a web developer from France</h3>
