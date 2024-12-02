@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="300" height="150" src="https://images.unsplash.com/photo-1517134191118-9d595e4c8c2b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+    <img width="640" height="320" src="https://images.unsplash.com/photo-1517134191118-9d595e4c8c2b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
   </div>
   
 <h1 align="center">Hi 👋, I'm Jeffry Khalife</h1>
@@ -11,7 +11,7 @@
 
 - 👯 I’m working on some projects [Fansite](https://github.com/jeffry-khalife/Fansite),[Tiktaktoe](https://github.com/hylan-hallaci/TikTakTo)
 
-- 👨‍💻 All of my projects are available at ****Portfolio in progress****
+- 👨‍💻 All of my projects are available at **"Portfolio in progress"**
 
 - ⚡ In my free time **I try to improve my coding techniques and my creativity.**
 
