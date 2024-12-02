@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+    <img height="150" src="https://images.unsplash.com/photo-1517134191118-9d595e4c8c2b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
   </div>
   
 <h1 align="center">Hi 👋, I'm Jeffry Khalife</h1>
@@ -7,17 +7,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffry-khalife&label=Profile%20views&color=0e75b6&style=flat" alt="jeffry-khalife" /> </p>
 
-- 👯 I’m curently working on some projects [Fansite](github.com/jeffry-khalife/Fansite)
+- 📚 I'm currently learning at La Plateforme(Marseille)
+
+- 👯 I’m working on some projects [Fansite](github.com/jeffry-khalife/Fansite)
+
+- ⚡ In my free time **I try to improve my coding techniques and my creativity.**
+
+- 👨‍💻 All of my projects are available at ****Portfolio in progress****
+
+- 🤝 I’m looking for a work-study contract in Marseille
 
 - 📫 How to reach me [jeffry-khalife@laplateforme.io](jeffry-khalife@laplateforme.io)
 
-- 📄 Know about my experiences **I have a baca**
-
-- ⚡ In my free time **I improve my coding techniques and my creativity.**
-
-- 👨‍💻 All of my projects are available at **Portfolio in progress**
-
-- 🤝 I’m looking for a work-study contract in Marseille
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
