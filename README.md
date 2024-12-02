@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="640" height="320" src="https://images.unsplash.com/photo-1517134191118-9d595e4c8c2b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+    <img ![Capture d’écran 2024-12-02 120109](https://github.com/user-attachments/assets/44dbf103-136c-4ad1-88e2-801ec09ec033)/>
   </div>
   
 <h1 align="center">Hi 👋, I'm Jeffry Khalife</h1>
