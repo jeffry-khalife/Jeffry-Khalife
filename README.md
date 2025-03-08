@@ -8,7 +8,7 @@
 
 - 📚 I'm currently learning at La Plateforme(Marseille)
 
-- 👯 I’m working on some projects [Fansite](https://github.com/jeffry-khalife/Fansite),[Tiktaktoe](https://github.com/hylan-hallaci/TikTakTo)
+- 👯 I’m working on some projects [QuizNight](https://github.com/jeffry-khalife/quiznight),[Gestionnaire-de-menu](https://github.com/jeffry-khalife/gestionnaire-de-menu),[MatchaTea](https://github.com/jeffry-khalife/matchaTea),[Fansite](https://github.com/jeffry-khalife/Fansite),[Tiktaktoe](https://github.com/hylan-hallaci/TikTakTo)
 
 - ⚡ In my free time **I try to improve my coding techniques and my creativity.**
 
