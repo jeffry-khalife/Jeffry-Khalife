@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://images.unsplash.com/photo-1669023414162-8b0573b9c6b2?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="banner" width="1080"  height="300/>
-</p>
+</p> -->
 
 # 💫 About Me:
 💻 Passionate about Web Development and Data<br>🌱 Currently learning modern web stacks like React and Three.js<br>🎯 Goal: Keep improving and continuously learning<br>📍 Based in Marseille, France
